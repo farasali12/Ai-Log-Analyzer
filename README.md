@@ -2,6 +2,14 @@
 
 AI Log Analyzer is a Python and Streamlit web application that allows users to upload log files and receive AI-generated security analysis. The app reviews uploaded logs, identifies suspicious activity, assigns a severity level, and suggests recommended actions in a clean cybersecurity-themed dashboard.
 
+## Preview
+
+### Upload and Log Preview
+![Upload Screen](screenshot-home.png)
+
+### Analysis Result
+![Analysis Result](screenshot-result.png)
+
 ## Features
 
 * Upload `.txt` or `.log` files
